@@ -1,0 +1,178 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"7e217d00-dbba-4fc1-93e0-7d555ccb3818\" name=\"Changes\" comment=\"lesson1-HW-python-replay\">\n      <change afterPath=\"$PROJECT_DIR$/lesson2-HW.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lesson3-HW.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lesson4-HW.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;WaldemarZP&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/WaldemarZP/jan-2024-python-core.git&quot;,\n    &quot;accountId&quot;: &quot;a1399b88-fa97-43de-9623-a7ef19337432&quot;\n  }\n}</component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 7\n}</component>\n  <component name=\"ProjectId\" id=\"2j0o85hxzOju5n25ZcvHTQcBnc8\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82\" />\n        <option value=\"bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"7e217d00-dbba-4fc1-93e0-7d555ccb3818\" name=\"Changes\" comment=\"\" />\n      <created>1720533192341</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1720533192341</updated>\n      <workItem from=\"1720533193727\" duration=\"6940000\" />\n      <workItem from=\"1720968723708\" duration=\"165000\" />\n      <workItem from=\"1721312587865\" duration=\"375000\" />\n      <workItem from=\"1721583371265\" duration=\"3530000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"lesson1-HW-python-replay\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1720539915589</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1720539915589</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"lesson1-HW-python-replay\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1720540037451</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1720540037451</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"3\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"lesson1-HW-python-replay\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"lesson1-HW-python-replay\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 105b73dca0770bd7d3baefb2e28bb17482b8d0d3)
++++ b/.idea/workspace.xml	(date 1721587239399)
+@@ -4,11 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="7e217d00-dbba-4fc1-93e0-7d555ccb3818" name="Changes" comment="lesson1-HW-python-replay">
+-      <change afterPath="$PROJECT_DIR$/lesson2-HW.py" afterDir="false" />
++    <list default="true" id="7e217d00-dbba-4fc1-93e0-7d555ccb3818" name="Changes" comment="lesson2-HW-python-replay">
+       <change afterPath="$PROJECT_DIR$/lesson3-HW.py" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/lesson4-HW.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -77,7 +75,7 @@
+       <workItem from="1720533193727" duration="6940000" />
+       <workItem from="1720968723708" duration="165000" />
+       <workItem from="1721312587865" duration="375000" />
+-      <workItem from="1721583371265" duration="3530000" />
++      <workItem from="1721583371265" duration="3867000" />
+     </task>
+     <task id="LOCAL-00001" summary="lesson1-HW-python-replay">
+       <option name="closed" value="true" />
+@@ -95,7 +93,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1720540037451</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="lesson2-HW-python-replay">
++      <option name="closed" value="true" />
++      <created>1721587239117</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1721587239117</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -103,6 +109,7 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="lesson1-HW-python-replay" />
+-    <option name="LAST_COMMIT_MESSAGE" value="lesson1-HW-python-replay" />
++    <MESSAGE value="lesson2-HW-python-replay" />
++    <option name="LAST_COMMIT_MESSAGE" value="lesson2-HW-python-replay" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: lesson3-HW.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lesson3-HW.py b/lesson3-HW.py
+new file mode 100644
+--- /dev/null	(date 1721312748822)
++++ b/lesson3-HW.py	(date 1721312748822)
+@@ -0,0 +1,50 @@
++# Створити клас Rectangle:
++# -він має приймати дві сторони x,y
++# -описати поведінку на арифметични методи:
++#   + сумма площин двох екземплярів ксласу
++#   - різниця площин двох екземплярів ксласу
++#   == площин на рівність
++#   != площин на не рівність
++#   >, < меньше більше
++#   при виклику метода len() підраховувати сумму сторін
++#
++#   ###############################################################################
++#
++# створити класс Human (name, age)
++# створити два класси Prince и Cinderella які наслідуються від Human:
++# у попелюшки мае бути ім'я, вік, розмір нонги
++# у принца має бути ім'я, вік, та розмір знайденого черевичка, а також метод котрий буде приймати список попелюшок, та шукати ту саму
++#
++# в класі попелюшки має бути count який буде зберігати кількість створених екземплярів классу
++# також має бути метод классу який буде виводити це значення
++#
++#
++# ###############################################################################
++#
++# 1) Створити абстрактний клас Printable який буде описувати абстрактний метод print()
++# 2) Створити класи Book та Magazine в кожного в конструкторі змінна name, та який наслідуются від класу Printable
++# 3) Створити клас Main в якому буде:
++# - змінна класу printable_list яка буде зберігати книжки та журнали
++# - метод add за допомогою якого можна додавати екземпляри класів в список і робити перевірку чи то що передають є класом Book або Magazine инакше ігрнорувати додавання
++# - метод show_all_magazines який буде виводити всі журнали викликаючи метод print абстрактного классу
++# - метод show_all_books який буде виводити всі книги викликаючи метод print абстрактного классу
++#
++# Приклад:
++#
++# Main.add(Magazine('Magazine1'))
++# Main.add(Book('Book1'))
++# Main.add(Magazine('Magazine3'))
++# Main.add(Magazine('Magazine2'))
++# Main.add(Book('Book2'))
++#
++# Main.show_all_magazines()
++# print('-' * 40)
++# Main.show_all_books()
++#
++# для перевірки ксассів використовуємо метод isinstance, приклад:
++#
++# user = User('Max', 15)
++# shape = Shape()
++#
++# isinstance(max, User) -> True
++# isinstance(shape, User) -> False
+\ No newline at end of file
+Index: lesson4-HW.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lesson4-HW.py b/lesson4-HW.py
+new file mode 100644
+--- /dev/null	(date 1721312961966)
++++ b/lesson4-HW.py	(date 1721312961966)
+@@ -0,0 +1,47 @@
++# 1) Є ось такий файл... ваша задача записати в новий файл тільки email'ли з доменом gmail.com (Хеш то що з ліва записувати не потрібно)
++#
++# 2) Створити записну книжку покупок:
++# - у покупки повинна бути id, назва і ціна
++# - всі покупки зберігаємо в файлі
++# з функціоналу:
++#  * вивід всіх покупок
++#  * має бути змога додавати покупку в книгу
++# * має бути змога шукати по будь якому полю покупку
++# * має бути змога показати найдорожчу покупку
++# * має бути можливість видаляти покупку по id
++# (ну і меню на це все)
++#
++# *********Кому буде замало ось завдання з співбесіди
++# Є ось такий список:
++# data = [
++#     [
++#         {"id": 1110, "field": {}},
++#         {"id": 1111, "field": {}},
++#         {"id": 1112, "field": {}},
++#         {"id": 1113, "field": {}},
++#         {"id": 1114, "field": {}},
++#         {"id": 1115, "field": {}},
++#     ],
++#     [
++#         {"id": 1110, "field": {}},
++#         {"id": 1120, "field": {}},
++#         {"id": 1122, "field": {}},
++#         {"id": 1123, "field": {}},
++#         {"id": 1124, "field": {}},
++#         {"id": 1125, "field": {}},
++#
++#     ],
++#     [
++#         {"id": 1130, "field": {}},
++#         {"id": 1131, "field": {}},
++#         {"id": 1122, "field": {}},
++#         {"id": 1132, "field": {}},
++#         {"id": 1133, "field": {}},
++#
++#     ]
++# ]
++#
++# потрібно брати по черзі с кожного списку id і класти в список res, якщо таке значення вже є в результуючому списку то брати наступне з того ж підсписку
++#
++# з даним списком мае вийти ось такий результат:
++# res = [1110, 1120, 1130, 1111, 1122, .......]
+\ No newline at end of file
