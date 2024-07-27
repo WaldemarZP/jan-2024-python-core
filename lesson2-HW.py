@@ -5,26 +5,29 @@
 #
 #
 # # def notebook() -> tuple[Callable[[str], None], Callable[[], list[str]]]:
-def notebook():
-    todo_list: list[str] = []
-
-    def add_todo(todo: str) -> None:
-        nonlocal todo_list
-        todo_list.append(todo)
-
-    def get_all() -> list[str]:
-        nonlocal todo_list
-        return todo_list.copy()
-
-    return add_todo, get_all
-
-
-add, all = notebook()
-
-add('vova1')
-add('vova2')
-
-print(all())
+# def notebook():
+#     todo_list: list[str] = []
+#
+#     def add_todo(todo: str) -> None:
+#         nonlocal todo_list
+#         todo_list.append(todo)
+#
+#     def get_all() -> list[str]:
+#         nonlocal todo_list
+#         return todo_list.copy()
+#
+#     return add_todo, get_all
+#
+#
+# add, all = notebook()
+#
+# add('vova1')
+# add('vova2')
+#
+# l = all()
+# l.append('vova3')
+# print(l)
+# print(all())
 
 # 2) протипізувати перше завдання
 #
@@ -36,45 +39,45 @@ print(all())
 # expanded_form(42) # return '40 + 2'
 # expanded_form(70304) # return '70000 + 300 + 4'
 
-def expanded_form(num: int) -> str:
-    st = str(num)
-    length = len(st)-1
-    res = []
-    for i, ch in enumerate(st):
-        if ch != '0':
-            res.append(ch + '0' * (length - i))
-
-    return ' + '.join(res)
-
-
-print(expanded_form(2001))
+# def expanded_form(num: int) -> str:
+#     st = str(num)
+#     res = []
+#     length = len(st)-1
+#     for i, ch in enumerate(st):
+#         if ch != '0':
+#             res.append(ch + '0' * (length - i))
+#
+#     return ' + '.join(res)
+#
+#
+# print(expanded_form(2525))
 
 #
 # 4) створити декоратор котрий буде підраховувати скільки разів була запущена функція продекорована цим декоратором, та буде виводити це значення після виконання функцій
 
-def count_decor(func):
-    count = 0
-
-    def inner(*args, **kwargs):
-        nonlocal count
-        count += 1
-        func(*args, **kwargs)
-        print(f'{count=}')
-
-    return inner
-
-@count_decor
-def func1():
-    print('func1')
-
-
-@count_decor
-def func2():
-    print('func2')
-
-
-func1()
-func1()
-func2()
-func1()
-func2()
+# def count_decor(func):
+#     count = 0
+#
+#     def inner(*args, **kwargs):
+#         nonlocal count
+#         count += 1
+#         func(*args, **kwargs)
+#         print(f'{count=}')
+#
+#     return inner
+#
+# @count_decor
+# def func1():
+#     print('func1')
+#
+#
+# @count_decor
+# def func2():
+#     print('func2')
+#
+#
+# func1()
+# func1()
+# func2()
+# func1()
+# func2()

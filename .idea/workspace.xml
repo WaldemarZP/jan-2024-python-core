@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e217d00-dbba-4fc1-93e0-7d555ccb3818" name="Changes" comment="lesson2-HW-python-replay">
-      <change afterPath="$PROJECT_DIR$/lesson3-HW.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7e217d00-dbba-4fc1-93e0-7d555ccb3818" name="Changes" comment="lesson3-HW-python-replay">
       <change beforePath="$PROJECT_DIR$/lesson2-HW.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2-HW.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +77,7 @@
       <workItem from="1721312587865" duration="375000" />
       <workItem from="1721583371265" duration="3530000" />
       <workItem from="1721587349025" duration="2652000" />
-      <workItem from="1722083248416" duration="3871000" />
+      <workItem from="1722083248416" duration="4545000" />
     </task>
     <task id="LOCAL-00001" summary="lesson1-HW-python-replay">
       <option name="closed" value="true" />
@@ -113,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721587411987</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lesson3-HW-python-replay">
+      <option name="closed" value="true" />
+      <created>1722087794565</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722087794565</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +128,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson1-HW-python-replay" />
     <MESSAGE value="lesson2-HW-python-replay" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson2-HW-python-replay" />
+    <MESSAGE value="lesson3-HW-python-replay" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson3-HW-python-replay" />
   </component>
 </project>
